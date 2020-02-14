@@ -9,7 +9,7 @@ The executable "fillit" takes only one parameter, a file which contains a list o
 ### Installing
 
 ```
-type make for compile
+type make to compile
 ```
 
 ### Input
