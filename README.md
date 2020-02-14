@@ -1,5 +1,5 @@
 # Fillit. 
-Fillit project at 42.\n
+Fillit project at 42.   
 <br>
 This program will take a file as parameter, which contains a list of Tetriminos,  
 and arrange them in order to create the smallest square possible.  
